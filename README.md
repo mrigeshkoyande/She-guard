@@ -85,3 +85,5 @@ Crime Ananaliys
 <img width="1890" height="867" alt="Screenshot 2026-03-10 103458" src="https://github.com/user-attachments/assets/efbe2a35-ada2-4a58-8e5d-5412e538db9a" />
 Emergency Alert 
 <img width="1887" height="864" alt="Screenshot 2026-03-10 103512" src="https://github.com/user-attachments/assets/aec41328-e2cb-48f2-aa31-f7b48f450ce5" />
+Comunity report 
+<img width="1893" height="869" alt="Screenshot 2026-03-10 103529" src="https://github.com/user-attachments/assets/03e394c6-e622-4f6f-9e89-70bf3e0dd80f" />
