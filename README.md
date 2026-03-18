@@ -91,3 +91,5 @@ Saftey Trends
 <img width="1886" height="868" alt="Screenshot 2026-03-10 103549" src="https://github.com/user-attachments/assets/2ae5716f-94ce-42d2-b3b1-e4b9a8c22725" />
 Mobile App mode Start mode 
 <img width="1911" height="869" alt="Screenshot 2026-03-10 103642" src="https://github.com/user-attachments/assets/ca75d58e-6254-45f7-9033-afcc30062522" />
+Mobile App Home Page 
+<img width="1919" height="872" alt="Screenshot 2026-03-10 103654" src="https://github.com/user-attachments/assets/067f3f6a-eb9b-4bdd-985c-abb1624f93d9" />
