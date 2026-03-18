@@ -75,3 +75,5 @@ Dashbord
 <img width="1894" height="866" alt="Screenshot 2026-03-10 102741" src="https://github.com/user-attachments/assets/887713b5-61ba-4db0-9b7c-9ec21cea9e9c" />
 Dashbord Ecosystem 
 <img width="1898" height="869" alt="Screenshot 2026-03-10 102820" src="https://github.com/user-attachments/assets/9a900bb5-f239-4016-98db-792b2a54e6cc" />
+Chatbot 
+<img width="1903" height="874" alt="Screenshot 2026-03-10 102854" src="https://github.com/user-attachments/assets/53f0201d-98df-48bf-84e1-56ea39388fa5" />
