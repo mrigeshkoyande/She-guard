@@ -79,3 +79,5 @@ Chatbot
 <img width="1903" height="874" alt="Screenshot 2026-03-10 102854" src="https://github.com/user-attachments/assets/53f0201d-98df-48bf-84e1-56ea39388fa5" />
 Realtime city navigation map for better safty 
 <img width="1902" height="870" alt="Screenshot 2026-03-10 102923" src="https://github.com/user-attachments/assets/20f3d5a9-7318-4ac9-9c92-bca4ce2247b4" />
+Safty Heat map 
+<img width="1894" height="868" alt="Screenshot 2026-03-10 102956" src="https://github.com/user-attachments/assets/ff9abed5-105f-476e-8627-1552d6f27502" />
