@@ -83,3 +83,5 @@ Safty Heat map
 <img width="1894" height="868" alt="Screenshot 2026-03-10 102956" src="https://github.com/user-attachments/assets/ff9abed5-105f-476e-8627-1552d6f27502" />
 Crime Ananaliys 
 <img width="1890" height="867" alt="Screenshot 2026-03-10 103458" src="https://github.com/user-attachments/assets/efbe2a35-ada2-4a58-8e5d-5412e538db9a" />
+Emergency Alert 
+<img width="1887" height="864" alt="Screenshot 2026-03-10 103512" src="https://github.com/user-attachments/assets/aec41328-e2cb-48f2-aa31-f7b48f450ce5" />
