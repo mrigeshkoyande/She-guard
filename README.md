@@ -73,3 +73,5 @@ To connect a domain, navigate to Project > Settings > Domains and click Connect 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 Dashbord 
 <img width="1894" height="866" alt="Screenshot 2026-03-10 102741" src="https://github.com/user-attachments/assets/887713b5-61ba-4db0-9b7c-9ec21cea9e9c" />
+Dashbord Ecosystem 
+<img width="1898" height="869" alt="Screenshot 2026-03-10 102820" src="https://github.com/user-attachments/assets/9a900bb5-f239-4016-98db-792b2a54e6cc" />
