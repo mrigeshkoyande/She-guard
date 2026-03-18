@@ -87,3 +87,5 @@ Emergency Alert
 <img width="1887" height="864" alt="Screenshot 2026-03-10 103512" src="https://github.com/user-attachments/assets/aec41328-e2cb-48f2-aa31-f7b48f450ce5" />
 Comunity report 
 <img width="1893" height="869" alt="Screenshot 2026-03-10 103529" src="https://github.com/user-attachments/assets/03e394c6-e622-4f6f-9e89-70bf3e0dd80f" />
+Saftey Trends 
+<img width="1886" height="868" alt="Screenshot 2026-03-10 103549" src="https://github.com/user-attachments/assets/2ae5716f-94ce-42d2-b3b1-e4b9a8c22725" />
