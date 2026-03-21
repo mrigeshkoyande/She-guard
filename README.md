@@ -95,4 +95,6 @@ Mobile App Home Page
 <img width="1919" height="872" alt="Screenshot 2026-03-10 103654" src="https://github.com/user-attachments/assets/067f3f6a-eb9b-4bdd-985c-abb1624f93d9" />
 Mobile App mode emergency page 
 <img width="1905" height="864" alt="Screenshot 2026-03-10 103709" src="https://github.com/user-attachments/assets/7f7fd471-382d-401b-9a64-06b81f27e6ce" />
+Mobile App mode safe Routes mode 
+<img width="1906" height="868" alt="Screenshot 2026-03-10 103754" src="https://github.com/user-attachments/assets/926e0f8b-65a0-4227-8cff-1c18cea159c2" />
 
