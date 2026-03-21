@@ -261,6 +261,59 @@ For support, please open an issue on the [GitHub repository](https://github.com/
 
 **Made with ❤️ for urban safety**
 
+## 📸 Screenshots
+
+### Dashboard
+<img width="1894" height="866" alt="Screenshot 2026-03-10 102741" src="https://github.com/user-attachments/assets/887713b5-61ba-4db0-9b7c-9ec21cea9e9c" />
+
+### Dashboard Ecosystem
+<img width="1898" height="869" alt="Screenshot 2026-03-10 102820" src="https://github.com/user-attachments/assets/9a900bb5-f239-4016-98db-792b2a54e6cc" />
+
+### Chatbot
+<img width="1903" height="874" alt="Screenshot 2026-03-10 102854" src="https://github.com/user-attachments/assets/53f0201d-98df-48bf-84e1-56ea39388fa5" />
+
+### Realtime City Navigation Map for Better Safety
+<img width="1902" height="870" alt="Screenshot 2026-03-10 102923" src="https://github.com/user-attachments/assets/20f3d5a9-7318-4ac9-9c92-bca4ce2247b4" />
+
+### Safety Heat Map
+<img width="1894" height="868" alt="Screenshot 2026-03-10 102956" src="https://github.com/user-attachments/assets/ff9abed5-105f-476e-8627-1552d6f27502" />
+
+### Crime Analysis
+<img width="1890" height="867" alt="Screenshot 2026-03-10 103458" src="https://github.com/user-attachments/assets/efbe2a35-ada2-4a58-8e5d-5412e538db9a" />
+
+### Emergency Alert
+<img width="1887" height="864" alt="Screenshot 2026-03-10 103512" src="https://github.com/user-attachments/assets/aec41328-e2cb-48f2-aa31-f7b48f450ce5" />
+
+### Community Report
+<img width="1893" height="869" alt="Screenshot 2026-03-10 103529" src="https://github.com/user-attachments/assets/03e394c6-e622-4f6f-9e89-70bf3e0dd80f" />
+
+### Safety Trends
+<img width="1886" height="868" alt="Screenshot 2026-03-10 103549" src="https://github.com/user-attachments/assets/2ae5716f-94ce-42d2-b3b1-e4b9a8c22725" />
+
+### Mobile App Start Mode
+<img width="1911" height="869" alt="Screenshot 2026-03-10 103642" src="https://github.com/user-attachments/assets/ca75d58e-6254-45f7-9033-afcc30062522" />
+
+### Mobile App Home Page
+<img width="1919" height="872" alt="Screenshot 2026-03-10 103654" src="https://github.com/user-attachments/assets/067f3f6a-eb9b-4bdd-985c-abb1624f93d9" />
+
+### Mobile App Emergency Page
+<img width="1905" height="864" alt="Screenshot 2026-03-10 103709" src="https://github.com/user-attachments/assets/7f7fd471-382d-401b-9a64-06b81f27e6ce" />
+
+### Mobile App Safe Routes Mode
+<img width="1906" height="868" alt="Screenshot 2026-03-10 103754" src="https://github.com/user-attachments/assets/926e0f8b-65a0-4227-8cff-1c18cea159c2" />
+
+### Mobile App Safety Map Mode
+<img width="1919" height="867" alt="Screenshot 2026-03-10 103806" src="https://github.com/user-attachments/assets/91d8884f-b773-48a9-a5cf-3ef2d4c9e6de" />
+
+### Mobile App Guidance Call / Emergency Call
+<img width="1909" height="869" alt="Screenshot 2026-03-10 103816" src="https://github.com/user-attachments/assets/a3a225fb-d35e-4cf1-a475-7aeb88602376" />
+
+### Mobile App Report Location
+<img width="1908" height="867" alt="Screenshot 2026-03-10 103833" src="https://github.com/user-attachments/assets/f9662c0d-da8a-472e-aa4c-a16519196f81" />
+
+### Mobile App Report Location - Reported Well
+<img width="1906" height="870" alt="Screenshot 2026-03-10 103912" src="https://github.com/user-attachments/assets/5143a707-cd69-492b-b789-6f9ab4e7b46b" />
+
 # Step 3: Install the necessary dependencies.
 npm i
 
