@@ -93,3 +93,6 @@ Mobile App mode Start mode
 <img width="1911" height="869" alt="Screenshot 2026-03-10 103642" src="https://github.com/user-attachments/assets/ca75d58e-6254-45f7-9033-afcc30062522" />
 Mobile App Home Page 
 <img width="1919" height="872" alt="Screenshot 2026-03-10 103654" src="https://github.com/user-attachments/assets/067f3f6a-eb9b-4bdd-985c-abb1624f93d9" />
+Mobile App mode emergency page 
+<img width="1905" height="864" alt="Screenshot 2026-03-10 103709" src="https://github.com/user-attachments/assets/7f7fd471-382d-401b-9a64-06b81f27e6ce" />
+
