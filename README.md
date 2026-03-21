@@ -99,4 +99,6 @@ Mobile App mode safe Routes mode
 <img width="1906" height="868" alt="Screenshot 2026-03-10 103754" src="https://github.com/user-attachments/assets/926e0f8b-65a0-4227-8cff-1c18cea159c2" />
 Mobile App mode Safty Map mode 
 <img width="1919" height="867" alt="Screenshot 2026-03-10 103806" src="https://github.com/user-attachments/assets/91d8884f-b773-48a9-a5cf-3ef2d4c9e6de" />
+Mobile App Mode Guidance Call/ Emergency call 
+<img width="1909" height="869" alt="Screenshot 2026-03-10 103816" src="https://github.com/user-attachments/assets/a3a225fb-d35e-4cf1-a475-7aeb88602376" />
 
